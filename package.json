@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/stevieb669/WebClass/issues"
   },
-  "homepage": "https://github.com/stevieb669/WebClass#readme"
+  "homepage": "https://github.com/stevieb669/WebClass#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
